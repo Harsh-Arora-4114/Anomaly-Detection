@@ -1,7 +1,5 @@
 # Anomaly Detection
 
----
-
 ## Overview
 
 This project focuses on detecting industrial product defects using Deep Learning and Unsupervised Learning techniques. The system is built using a Convolutional Autoencoder trained on the MVTec Anomaly Detection dataset.
