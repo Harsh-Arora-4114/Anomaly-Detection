@@ -172,7 +172,7 @@ Statistical threshold improves reliability
 
 ### 1. Clone Repository
 
-git clone: 
+git clone:https://github.com/Harsh-Arora-4114/Anomaly-Detection.git
 
 ---
 
