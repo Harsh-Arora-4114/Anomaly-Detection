@@ -209,13 +209,13 @@ Dataset Used: MVTec Anomaly Detection Dataset
 Contains industrial categories such as:
 
 bottle
-cable
-capsule
-toothbrush
-metal nut
-hazelnut
-grid
-wood
+,cable
+,capsule
+,toothbrush
+,metal nut
+,hazelnut
+,grid
+,wood
 and more
 
 Each category contains:
